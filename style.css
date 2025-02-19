@@ -160,7 +160,7 @@ h1:hover {
     color: rgb(255, 255, 255);
 }
 
-@media (min-width: 400px) {
+@media (min-width: 300px) {
     .pricing-container {
         flex-direction: column;
         height: 100%;
